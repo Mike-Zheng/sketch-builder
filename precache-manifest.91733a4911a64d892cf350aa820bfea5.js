@@ -16,39 +16,39 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketch-builder/img/scada/scada-panel.png"
   },
   {
-    "revision": "ed509431a149d0362ac6aa47fcb3bae9",
+    "revision": "4854c3b47c738672f621f5f94ca0ca32",
     "url": "/sketch-builder/img/scada/svg/btn_switch_001.svg"
   },
   {
-    "revision": "241754085c8b33af3ae324b093a0ddde",
+    "revision": "1c0cf018b1b130fe04cb11f937295853",
     "url": "/sketch-builder/img/scada/svg/btn_switch_001d.svg"
   },
   {
-    "revision": "f2413509849bb9acbeeb6f04e69519f2",
+    "revision": "30e03464d618591a71deb10a0c7dd1f9",
     "url": "/sketch-builder/img/scada/svg/compressorA.svg"
   },
   {
-    "revision": "b61e999191ef1cf5a5d22cb044d775c2",
+    "revision": "e5262bd86b1aebaabfc5f9be824addf7",
     "url": "/sketch-builder/img/scada/svg/compressorA_pre.svg"
   },
   {
-    "revision": "81cda4275ef431b43e2aa5b62858c1e3",
+    "revision": "b42d150323fc11ffeb547e58e15970c8",
     "url": "/sketch-builder/img/scada/svg/ex-comp-1.svg"
   },
   {
-    "revision": "f968790b099e6e5dc10ae6806eb9fdf1",
+    "revision": "33b7737ee2fd49c82fc6212bd425a359",
     "url": "/sketch-builder/img/scada/svg/ex-comp-1_.svg"
   },
   {
-    "revision": "5444448121867d4ffff20cfaeb27ee38",
+    "revision": "42de056f4fbb27b087770fb0d0c35e42",
     "url": "/sketch-builder/img/scada/svg/ex-comp-2.svg"
   },
   {
-    "revision": "08f09b11c9ca83d5185965db6bfc335d",
+    "revision": "fe89931365db10f130fbae19d31bd78f",
     "url": "/sketch-builder/img/scada/svg/ex-comp-2_pre.svg"
   },
   {
-    "revision": "1b45ab1804077566c48270fdfe25c14f",
+    "revision": "d6bb60a8b370143f92cc76c002b28e8b",
     "url": "/sketch-builder/img/scada/svg/ex-comp-3.svg"
   },
   {
@@ -56,139 +56,139 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketch-builder/img/scada/svg/ex-comp-3_pre.svg"
   },
   {
-    "revision": "88c749eb9e3f8f9d1664034fc2a87a09",
+    "revision": "74269faedacb5dbbe231c67bd4e89e58",
     "url": "/sketch-builder/img/scada/svg/ex1-ac0.svg"
   },
   {
-    "revision": "ef18c0be9ff9a07c6ea77814e6f0238d",
+    "revision": "3a4df384881f8258e7a749db1e8e6915",
     "url": "/sketch-builder/img/scada/svg/ex1-ac0_pre.svg"
   },
   {
-    "revision": "0f1c9f1fed9d817036a3f54a370d480a",
+    "revision": "4d43edb7c5c56d7e139c0c985b0e82e6",
     "url": "/sketch-builder/img/scada/svg/ex1-ac1.svg"
   },
   {
-    "revision": "89e26e507619429acb4a204664c0de43",
+    "revision": "059107a2704ece2e8f79b9cd73ff3a3c",
     "url": "/sketch-builder/img/scada/svg/ex1-ac1_pre.svg"
   },
   {
-    "revision": "afed46cc08880e474f14c302c2544318",
+    "revision": "0f48af4828ccbce7ae3ce3d90a740027",
     "url": "/sketch-builder/img/scada/svg/ex1-ac2.svg"
   },
   {
-    "revision": "ff66abc55cd5c1e34685c25b5f5621df",
+    "revision": "305985279e0238eb20f712913d656e6f",
     "url": "/sketch-builder/img/scada/svg/ex1-ac2_pre.svg"
   },
   {
-    "revision": "bf00b85bb8fb4577f518336898426bfd",
+    "revision": "d0f147d4960d348c26faeff833f44927",
     "url": "/sketch-builder/img/scada/svg/filter_hum_hot_001.svg"
   },
   {
-    "revision": "2223d42b4d0076ca13b1aa3b40248790",
+    "revision": "0c4c0ebe88fb931843c61834d6f9cc8f",
     "url": "/sketch-builder/img/scada/svg/filter_hum_hot_002.svg"
   },
   {
-    "revision": "6135639fe5115fdfb216856952d63110",
+    "revision": "769e3d90f9eb44aee30012f371a9827d",
     "url": "/sketch-builder/img/scada/svg/filter_hum_hot_003.svg"
   },
   {
-    "revision": "a78946c96bc0a255d2668b54c71e2724",
+    "revision": "51c8de0f07e213ecb20a26822c0fbae9",
     "url": "/sketch-builder/img/scada/svg/filter_hum_hot_004.svg"
   },
   {
-    "revision": "49b7e3b3a0a47610f74efc52a3806aad",
+    "revision": "d5fe6dc5d035237e57b18f6f26b6cfa3",
     "url": "/sketch-builder/img/scada/svg/pumpA.svg"
   },
   {
-    "revision": "64146b1beb569350f7c6a1f7e5571afd",
+    "revision": "4bdbe24b78dc30c7b626f80d636ae4fd",
     "url": "/sketch-builder/img/scada/svg/pumpA_pre.svg"
   },
   {
-    "revision": "56aaae30a4460052500c279e08e2c55b",
+    "revision": "333cfc06e078c9eb72999f9d0c7fc1c1",
     "url": "/sketch-builder/img/scada/svg/rs-fengfenhunheqi.svg"
   },
   {
-    "revision": "4ec3802de2ee2fb270042290caec5ab5",
+    "revision": "b9a8b1139861d8d8768b723a6097f40d",
     "url": "/sketch-builder/img/scada/svg/rs-fengfenhunheqi_pre.svg"
   },
   {
-    "revision": "a88636422d425d5a0c8cbe375c32c22f",
+    "revision": "1ad5328488adfef54a6cc3a447b4fe20",
     "url": "/sketch-builder/img/scada/svg/rs-fengji.svg"
   },
   {
-    "revision": "205fc19cd2479ca0b4f6f01e3b87d296",
+    "revision": "d19c66329fb57ab582e22c043d23dac3",
     "url": "/sketch-builder/img/scada/svg/rs-fengji_pre.svg"
   },
   {
-    "revision": "056b5068ad6b96ebaa6c105d14d1e497",
+    "revision": "84f7ce77d96e93358edcbcd738dbfd7e",
     "url": "/sketch-builder/img/scada/svg/rs-fire.svg"
   },
   {
-    "revision": "9d0e0a22a12cb08da2e346fff3688113",
+    "revision": "c18121de7e248fef23430bb79022adde",
     "url": "/sketch-builder/img/scada/svg/rs-fire_pre.svg"
   },
   {
-    "revision": "35966e7f00c84d6ea648e74532b85204",
+    "revision": "ce0746180b7aca9f8f0c409204843d9e",
     "url": "/sketch-builder/img/scada/svg/rs-geifenqi.svg"
   },
   {
-    "revision": "dcb345947062b9971fc066336cdf491c",
+    "revision": "c7b56778cde5d76bb191714a1a22595d",
     "url": "/sketch-builder/img/scada/svg/rs-geifenqi_pre.svg"
   },
   {
-    "revision": "89f6a01cc2a4805085f4b0fe630413c3",
+    "revision": "e37e743667dcaaa346128b1dacd4c6af",
     "url": "/sketch-builder/img/scada/svg/rs-guage.svg"
   },
   {
-    "revision": "4a8f4088e82ee6b516817806e26cbd6d",
+    "revision": "1b4ff95cf96917d668337c417fa6be25",
     "url": "/sketch-builder/img/scada/svg/rs-guage_pre.svg"
   },
   {
-    "revision": "91ccae762c886fa00535c705839a98af",
+    "revision": "09fd10dac96544f0f4683ae7c398dd5c",
     "url": "/sketch-builder/img/scada/svg/rs-guolu.svg"
   },
   {
-    "revision": "0a276b8222997f5f30b940be9170df61",
+    "revision": "18c2f2f1a39ba913ea2a631290c664ed",
     "url": "/sketch-builder/img/scada/svg/rs-guolu_pre.svg"
   },
   {
-    "revision": "9348487bbbd132761d3e5c6df46e1c66",
+    "revision": "8886fe7498b69ee71636e883d7f6b090",
     "url": "/sketch-builder/img/scada/svg/rs-handvalve.svg"
   },
   {
-    "revision": "f4846510f2d173d09bef415a02d8cb85",
+    "revision": "9d0d66f0245e5ab65584d45c09fec485",
     "url": "/sketch-builder/img/scada/svg/rs-handvalve_pre.svg"
   },
   {
-    "revision": "2a28f97787438ed83fcabd0e4820ef73",
+    "revision": "bc234835973b012a40b852a9e74cfba3",
     "url": "/sketch-builder/img/scada/svg/rs-meicang.svg"
   },
   {
-    "revision": "36f9a3b5a29685917e2c8be6cc7006ea",
+    "revision": "45f6994962c1c5e1a8be7d7ff34a2f9b",
     "url": "/sketch-builder/img/scada/svg/rs-meicang_pre.svg"
   },
   {
-    "revision": "e62e852d5a3250b3c2efde309be80da4",
+    "revision": "cd3d3ff807c0998b2c35bd6f830694c2",
     "url": "/sketch-builder/img/scada/svg/rs-tiaojiefa.svg"
   },
   {
-    "revision": "49ee504d2c9ce4f1aacb7844855359aa",
+    "revision": "3353fe61fd598c9a1de4103af21e13f2",
     "url": "/sketch-builder/img/scada/svg/rs-tiaojiefa_pre.svg"
   },
   {
-    "revision": "3844a4cb2b0558b42c30112ab5636583",
+    "revision": "0ec9ed18e965a1cc7581c1c7e0ab1675",
     "url": "/sketch-builder/img/scada/svg/rs-tongfengguan.svg"
   },
   {
-    "revision": "c989583fbfb6a16d7e611ddea8bc1c61",
+    "revision": "f7b2a40cebd8f1162ca788b5b20b65a5",
     "url": "/sketch-builder/img/scada/svg/rs-tongfengguan_pre.svg"
   },
   {
-    "revision": "e2ca8e99cb05aef50717dadcca97903d",
+    "revision": "012e0d21d97883f86f261f53fd0f9467",
     "url": "/sketch-builder/img/scada/svg/rs-tube.svg"
   },
   {
-    "revision": "80b5bd91b79323812e1594ff02e09093",
+    "revision": "4a253f12f49297efe81fce157d6e4db1",
     "url": "/sketch-builder/img/scada/svg/rs-tube_pre.svg"
   },
   {
@@ -200,35 +200,35 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketch-builder/img/scada/svg/rs-valveA_pre.svg"
   },
   {
-    "revision": "46bc38645af5d2e3b89f42e7d216fe5e",
+    "revision": "f9c762a72b35574ac23437b079e20e45",
     "url": "/sketch-builder/img/scada/svg/rs-xichenqi.svg"
   },
   {
-    "revision": "ae00a22c1ae5f675ec5198fc42b6b32f",
+    "revision": "da3b30dac62f7a768659e801dd3cf396",
     "url": "/sketch-builder/img/scada/svg/rs-xichenqi_pre.svg"
   },
   {
-    "revision": "4802767cefbd1a0c172141b488c3673a",
+    "revision": "17695ef501311ea0c483422dd418879d",
     "url": "/sketch-builder/img/scada/svg/rs-yalibiansong.svg"
   },
   {
-    "revision": "d2d6c2bf7143f85052cdaf1492a3cc48",
+    "revision": "e27859d5b0e86dd1149435b3ace60780",
     "url": "/sketch-builder/img/scada/svg/rs-yalibiansong_pre.svg"
   },
   {
-    "revision": "fe5c3c22a7414e33f7ff9273825f1962",
+    "revision": "87085f39c1f898f274d12b6f8769515a",
     "url": "/sketch-builder/img/scada/svg/rs-youbeng.svg"
   },
   {
-    "revision": "529eef63d5958575810670d491cd6d7b",
+    "revision": "77a62cfeeae15b76ee360f6559d8cdc7",
     "url": "/sketch-builder/img/scada/svg/rs-youbeng_pre.svg"
   },
   {
-    "revision": "8df6862bd6e226667243b40fc67c397c",
+    "revision": "6cd7c2ffe0a9b9aa99e4761be427703b",
     "url": "/sketch-builder/img/scada/svg/rs-youguan.svg"
   },
   {
-    "revision": "3cc0b2e7a3863a807bbda3200be688c1",
+    "revision": "901f6a4d6f4f74e1db9675655aeee112",
     "url": "/sketch-builder/img/scada/svg/rs-youguan_pre.svg"
   },
   {
@@ -236,35 +236,35 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketch-builder/img/scada/svg/svg-sprite.801.svg"
   },
   {
-    "revision": "365bfcc7f04bad4e1a312ae0f440d862",
+    "revision": "0d64ae1fdc6858526c0f59258ae8b7cd",
     "url": "/sketch-builder/img/scada/svg/tube-h.svg"
   },
   {
-    "revision": "4559f1eaf63eb9195ebffb5cea5c3bea",
+    "revision": "82a40f9604d63ece73954964bdb881b7",
     "url": "/sketch-builder/img/scada/svg/tube-l.svg"
   },
   {
-    "revision": "16bd45ccb067aad389788488430eb679",
+    "revision": "e755944ae625753f7ddd13b2b9ed361e",
     "url": "/sketch-builder/img/scada/svg/tube-v.svg"
   },
   {
-    "revision": "e01b9093c8e5611518354dcbb4e790b2",
+    "revision": "2d68ca2f6bf935740ffd95d84aaab3e3",
     "url": "/sketch-builder/img/scada/svg/tube_h_pre.svg"
   },
   {
-    "revision": "56381bb3c7292dffb6b71e5f76aeb45f",
+    "revision": "7a0eb51c8d65069f985a2731b05362aa",
     "url": "/sketch-builder/img/scada/svg/tube_v_pre.svg"
   },
   {
-    "revision": "2f74d515cd049953c4c69c5fa8a2f912",
+    "revision": "c4ee6d1c69327e1c6c1ba5ad1d448212",
     "url": "/sketch-builder/img/scada/svg/valveA.svg"
   },
   {
-    "revision": "47327b210af5aa5d1577008b35e1ed1e",
+    "revision": "4e194047451a17ea2b5908164061f51c",
     "url": "/sketch-builder/img/scada/svg/valveA_pre.svg"
   },
   {
-    "revision": "043698082db0894b11fdbac0dcadaef4",
+    "revision": "efd4ba6d7e52656b8fa0a2091c73b394",
     "url": "/sketch-builder/index.html"
   },
   {
@@ -272,23 +272,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketch-builder/manifest.json"
   },
   {
-    "revision": "735ab4f94fbcd57074377afca324c813",
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/sketch-builder/robots.txt"
   },
   {
-    "revision": "c350674169e1eb34d0de",
-    "url": "/sketch-builder/static/css/app.02f2a615.css"
+    "revision": "4a8372e2f7913fb29870",
+    "url": "/sketch-builder/static/css/app.da630ab7.css"
   },
   {
-    "revision": "aa2a9f5173b2e863bab8",
-    "url": "/sketch-builder/static/css/chunk-34200848.2ee73cc8.css"
+    "revision": "33a5191bde6c60fde1d2",
+    "url": "/sketch-builder/static/css/chunk-2a02a730.a063c2fa.css"
   },
   {
-    "revision": "265d4112c069180588bd",
+    "revision": "b27aa20e1f3e266d3fcd",
     "url": "/sketch-builder/static/css/chunk-4726d688.2d3139a8.css"
   },
   {
-    "revision": "d5de2868df6d2131d665",
+    "revision": "12795f45ceccad510a53",
     "url": "/sketch-builder/static/css/chunk-d518461c.40bf1b02.css"
   },
   {
@@ -296,8 +296,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketch-builder/static/css/chunk-elementUI.5c89e5c1.css"
   },
   {
-    "revision": "d135eadeb9262a4bbfe3",
-    "url": "/sketch-builder/static/css/chunk-libs.03f546b3.css"
+    "revision": "3b470d76a4aa2fefbb7b",
+    "url": "/sketch-builder/static/css/chunk-libs.af9f847f.css"
   },
   {
     "revision": "535877f50039c0cb49a6196a5b7517cd",
@@ -388,24 +388,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketch-builder/static/fonts/material-icons.d960b795.woff2"
   },
   {
-    "revision": "c350674169e1eb34d0de",
-    "url": "/sketch-builder/static/js/app.fc1b7d3d.js"
+    "revision": "4a8372e2f7913fb29870",
+    "url": "/sketch-builder/static/js/app.bd2d9d8c.js"
   },
   {
-    "revision": "aa2a9f5173b2e863bab8",
-    "url": "/sketch-builder/static/js/chunk-34200848.8d17bb97.js"
+    "revision": "33a5191bde6c60fde1d2",
+    "url": "/sketch-builder/static/js/chunk-2a02a730.6dc52a38.js"
   },
   {
-    "revision": "265d4112c069180588bd",
-    "url": "/sketch-builder/static/js/chunk-4726d688.5c0fe059.js"
+    "revision": "b27aa20e1f3e266d3fcd",
+    "url": "/sketch-builder/static/js/chunk-4726d688.a156e5b3.js"
   },
   {
     "revision": "a17d5c54bba81a3076d7",
     "url": "/sketch-builder/static/js/chunk-7e1bb4aa.2a5f0713.js"
   },
   {
-    "revision": "d5de2868df6d2131d665",
-    "url": "/sketch-builder/static/js/chunk-d518461c.b150eae4.js"
+    "revision": "12795f45ceccad510a53",
+    "url": "/sketch-builder/static/js/chunk-d518461c.65919017.js"
   },
   {
     "revision": "7d3c1922e3a5c9a6067b",
@@ -416,11 +416,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketch-builder/static/js/chunk-elementUI.6309bff3.js"
   },
   {
-    "revision": "d135eadeb9262a4bbfe3",
+    "revision": "3b470d76a4aa2fefbb7b",
     "url": "/sketch-builder/static/js/chunk-libs.0f0abc88.js"
   },
   {
-    "revision": "c8eee81b7b50bcd3ce8f",
-    "url": "/sketch-builder/static/js/runtime.8f031ba7.js"
+    "revision": "634b27a1ddcdc172b65f",
+    "url": "/sketch-builder/static/js/runtime.995106cf.js"
   }
 ]);
