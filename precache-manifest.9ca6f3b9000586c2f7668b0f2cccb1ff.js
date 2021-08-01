@@ -1,5 +1,9 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
+    "revision": "a4a56794225f2dd2e4f0eef5482bbb6d",
+    "url": "/sketch-builder/img/app.png"
+  },
+  {
     "revision": "59b608d5fc62156ada49640763d6ce9f",
     "url": "/sketch-builder/img/svg/hmi/absoption_tower.svg"
   },
@@ -440,7 +444,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketch-builder/img/svg/machinery/040-machinery.svg"
   },
   {
-    "revision": "9a176de7046334ed5f0305da065859f8",
+    "revision": "e3c1f1f2e64c8902ba7e581f37150bde",
     "url": "/sketch-builder/index.html"
   },
   {
@@ -452,8 +456,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketch-builder/robots.txt"
   },
   {
-    "revision": "e102e1cbe8dcfbd563a5",
-    "url": "/sketch-builder/static/css/app.6019ba7a.css"
+    "revision": "afe4b55a34c2206caca1",
+    "url": "/sketch-builder/static/css/app.8e201950.css"
   },
   {
     "revision": "a36a92952f95abc6dbb3",
@@ -588,8 +592,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketch-builder/static/fonts/material-icons.d960b795.woff2"
   },
   {
-    "revision": "e102e1cbe8dcfbd563a5",
-    "url": "/sketch-builder/static/js/app.5cd99458.js"
+    "revision": "afe4b55a34c2206caca1",
+    "url": "/sketch-builder/static/js/app.bbfeff73.js"
   },
   {
     "revision": "a36a92952f95abc6dbb3",
