@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/vue-v2.6.11-green" alt="react-v2.6.11">
+  <img src="https://img.shields.io/badge/vue-v2.6.11-green" alt="vue-v2.6.11">
    <img src="https://img.shields.io/badge/node-v10.15.0-red" alt="node v10.15.0">
 </p>
 
