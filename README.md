@@ -25,11 +25,11 @@ Sketch-builder is a cloud web application that helps you create wireframes, mock
 ## Note
 
 雲端原型工具開發筆記系列文
-* [[作品筆記] sketch-builder 雲端原型工具開發筆記(01) - 前端應用軟體領域技術的探索](https://mike-zheng.github.io/sbuild01/)
-* [[作品筆記] sketch-builder 雲端原型工具開發筆記(02) - sketch資料結構分析](https://mike-zheng.github.io/sbuild02/)
-* [[作品筆記] sketch-builder 雲端原型工具開發筆記(03) - 開發的目標與介面設計](https://mike-zheng.github.io/sbuild03/)
-* [[作品筆記] sketch-builder 雲端原型工具開發筆記(04)  - 功能開發](https://mike-zheng.github.io/sbuild04/)
-* [[作品筆記] sketch-builder 雲端原型工具開發筆記(05)  - Beta1.0 功能展示](https://mike-zheng.github.io/sbuild05/)
+* [[作品筆記] sketch-builder 雲端原型工具開發筆記(01) - 前端應用軟體領域技術的探索](https://mike-zheng.github.io/posts/sbuild01/)
+* [[作品筆記] sketch-builder 雲端原型工具開發筆記(02) - sketch資料結構分析](https://mike-zheng.github.io/posts/sbuild02/)
+* [[作品筆記] sketch-builder 雲端原型工具開發筆記(03) - 開發的目標與介面設計](https://mike-zheng.github.io/posts/sbuild03/)
+* [[作品筆記] sketch-builder 雲端原型工具開發筆記(04)  - 功能開發](https://mike-zheng.github.io/posts/sbuild04/)
+* [[作品筆記] sketch-builder 雲端原型工具開發筆記(05)  - Beta1.0 功能展示](https://mike-zheng.github.io/posts/sbuild05/)
 
 
 --------------------------------------
