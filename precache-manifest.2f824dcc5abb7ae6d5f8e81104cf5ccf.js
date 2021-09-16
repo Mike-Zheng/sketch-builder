@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed0c883fd848b2e89bf685a6081aad20",
+    "revision": "a08a4aa36f79288e7c1f6333c0ebe577",
     "url": "/sketch-builder/README.md"
   },
   {
@@ -8,55 +8,55 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketch-builder/img/app.png"
   },
   {
-    "revision": "59b608d5fc62156ada49640763d6ce9f",
+    "revision": "a4b6107209c44944457682f89b87eb1a",
     "url": "/sketch-builder/img/svg/hmi/absoption_tower.svg"
   },
   {
-    "revision": "1a5aad8d8b06e7a59cc2d1b79b0abb09",
+    "revision": "35e0f0739672a7207fb891401ebd5d91",
     "url": "/sketch-builder/img/svg/hmi/air_stripper.svg"
   },
   {
-    "revision": "b5441edf42efeb9790351632640633ca",
+    "revision": "0be852659d2b632ccf4b7fead00052e5",
     "url": "/sketch-builder/img/svg/hmi/atomizer.svg"
   },
   {
-    "revision": "742ea0b7f19edf7e3dc9e75d68eb07c3",
+    "revision": "1f10603fc4f5373193e78372c8ffea4a",
     "url": "/sketch-builder/img/svg/hmi/baffle_crystalizer.svg"
   },
   {
-    "revision": "36a281566da9844d06f7b96ec98c1f24",
+    "revision": "5ff3dcf70473d04aac2673f64fd351a5",
     "url": "/sketch-builder/img/svg/hmi/chemical_mixing_tank.svg"
   },
   {
-    "revision": "cdf97bd272b0ca27a39387e75664b6bb",
+    "revision": "09cac7815b5942fd9a78eb5795cc7d54",
     "url": "/sketch-builder/img/svg/hmi/chiller.svg"
   },
   {
-    "revision": "5486845cd83d1f2cb7b7f259f4c24b7a",
+    "revision": "12b93595e3c7adf495abb46b65c747be",
     "url": "/sketch-builder/img/svg/hmi/colloid_mill_2.svg"
   },
   {
-    "revision": "02b45bb1f89cf94018a020c5631c0d02",
+    "revision": "c6a038fb70dbd9e5c0b983c24585c0af",
     "url": "/sketch-builder/img/svg/hmi/crude_unit.svg"
   },
   {
-    "revision": "0c5c43b872dbef3f1bcb185c66dcc889",
+    "revision": "96e80edf80aa9d8308ef0d879765be66",
     "url": "/sketch-builder/img/svg/hmi/cyclone_separator.svg"
   },
   {
-    "revision": "f2ac43f7d58ff4efe73285469a5b4abb",
+    "revision": "b6b9cbacb99ad9861af9eb71f3f2ae6c",
     "url": "/sketch-builder/img/svg/hmi/deoxygenize.svg"
   },
   {
-    "revision": "95a6687d9b225195af9230ad8e749416",
+    "revision": "e9a5cbf429f726735cba1374d66ef63b",
     "url": "/sketch-builder/img/svg/hmi/fermentation_tower.svg"
   },
   {
-    "revision": "3e110e66f3e844128df72ea0afd64853",
+    "revision": "3a7150d74ba9b5d9fff5e0aee7ea08f3",
     "url": "/sketch-builder/img/svg/hmi/food_grade_inline_mixer.svg"
   },
   {
-    "revision": "dd320797395b3d28e6155f9934fae211",
+    "revision": "2a51df47a9ff1ffdd74afa44d02725c3",
     "url": "/sketch-builder/img/svg/hmi/food_processor.svg"
   },
   {
@@ -64,11 +64,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketch-builder/img/svg/hmi/gauge.svg"
   },
   {
-    "revision": "14f6c48829bc81cec6564b39fb7ef994",
+    "revision": "56ae21710d3bab2dda7a2096c8201e0d",
     "url": "/sketch-builder/img/svg/hmi/grain_silo_3.svg"
   },
   {
-    "revision": "19721e56e97b534ceacfce63c3ed0dfc",
+    "revision": "311d496551e25926ba607897d2858fc6",
     "url": "/sketch-builder/img/svg/hmi/gravity_filter.svg"
   },
   {
@@ -76,11 +76,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketch-builder/img/svg/hmi/plc.svg"
   },
   {
-    "revision": "dcf50cc80ca8437b4feaf2d35a4e68dc",
+    "revision": "a5420f7fe99c6ae3e1eb413ce28687bf",
     "url": "/sketch-builder/img/svg/hmi/pressure_vessel.svg"
   },
   {
-    "revision": "7a98c1ed68a3329210481c3cfd6fbf70",
+    "revision": "24329fb0863ee39d00576248f02eb2c5",
     "url": "/sketch-builder/img/svg/hmi/spherical_tank.svg"
   },
   {
@@ -448,7 +448,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketch-builder/img/svg/machinery/040-machinery.svg"
   },
   {
-    "revision": "14c214abb0649be7b82d0b133be3a15e",
+    "revision": "876fd7e693f086208149daccc194e368",
     "url": "/sketch-builder/index.html"
   },
   {
@@ -456,31 +456,31 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketch-builder/manifest.json"
   },
   {
-    "revision": "5f111927e78fea68e15bf48280c4337c",
+    "revision": "7bdba2c810fff26a25bab63ce68e8304",
     "url": "/sketch-builder/robots.txt"
   },
   {
-    "revision": "f384feebc3fc0a2a591e",
-    "url": "/sketch-builder/static/css/app.8e201950.css"
+    "revision": "2664ba61cd025cd1d27a",
+    "url": "/sketch-builder/static/css/app.9cf68bc9.css"
   },
   {
-    "revision": "38c596cb02c661f06a23",
+    "revision": "838743af6cdd74633c6b",
     "url": "/sketch-builder/static/css/chunk-01017474.e3686512.css"
   },
   {
-    "revision": "70bb531076502891c866",
+    "revision": "45d7e299156db3142bca",
     "url": "/sketch-builder/static/css/chunk-10c68676.b4169894.css"
   },
   {
-    "revision": "ebf9db1773900be84466",
-    "url": "/sketch-builder/static/css/chunk-1580c01b.4f8dbd6a.css"
+    "revision": "0402da8a5fd30962f528",
+    "url": "/sketch-builder/static/css/chunk-1580c01b.e1d3ba7c.css"
   },
   {
-    "revision": "3c1604954fef22335127",
+    "revision": "59e821bc68a5a52d8e8e",
     "url": "/sketch-builder/static/css/chunk-28f30a78.503bdccf.css"
   },
   {
-    "revision": "cef632580b542899c14d",
+    "revision": "4d9f3cd6957b2f53de6c",
     "url": "/sketch-builder/static/css/chunk-2b5b6a68.90d5c872.css"
   },
   {
@@ -488,15 +488,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketch-builder/static/css/chunk-46503ad2.aba1cc9e.css"
   },
   {
-    "revision": "67a3f070e634e9b58d3d",
+    "revision": "2b9b3cb4bc5b6577f028",
     "url": "/sketch-builder/static/css/chunk-646fa990.94c7d0c9.css"
   },
   {
-    "revision": "a46a04c788da0573c139",
+    "revision": "95b3c8c5f5d91e521623",
     "url": "/sketch-builder/static/css/chunk-903be7f0.f487249c.css"
   },
   {
-    "revision": "edf45a83f8da8722ed7f",
+    "revision": "895032d58d25145c0b93",
     "url": "/sketch-builder/static/css/chunk-a2905580.40bf1b02.css"
   },
   {
@@ -504,7 +504,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketch-builder/static/css/chunk-elementUI.5c89e5c1.css"
   },
   {
-    "revision": "7dfdd304a5f1b791c731",
+    "revision": "40fd9a35aaa56bb77a86",
     "url": "/sketch-builder/static/css/chunk-libs.03f546b3.css"
   },
   {
@@ -596,83 +596,83 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketch-builder/static/fonts/material-icons.d960b795.woff2"
   },
   {
-    "revision": "f384feebc3fc0a2a591e",
-    "url": "/sketch-builder/static/js/app.98089c07.js"
+    "revision": "2664ba61cd025cd1d27a",
+    "url": "/sketch-builder/static/js/app.928da224.js"
   },
   {
-    "revision": "38c596cb02c661f06a23",
-    "url": "/sketch-builder/static/js/chunk-01017474.b5d2eb39.js"
+    "revision": "838743af6cdd74633c6b",
+    "url": "/sketch-builder/static/js/chunk-01017474.28812896.js"
   },
   {
-    "revision": "70bb531076502891c866",
-    "url": "/sketch-builder/static/js/chunk-10c68676.8758fca9.js"
+    "revision": "45d7e299156db3142bca",
+    "url": "/sketch-builder/static/js/chunk-10c68676.dd904c5b.js"
   },
   {
-    "revision": "ebf9db1773900be84466",
-    "url": "/sketch-builder/static/js/chunk-1580c01b.4b22dacc.js"
+    "revision": "0402da8a5fd30962f528",
+    "url": "/sketch-builder/static/js/chunk-1580c01b.f7455b52.js"
   },
   {
-    "revision": "3c1604954fef22335127",
-    "url": "/sketch-builder/static/js/chunk-28f30a78.35765c54.js"
+    "revision": "59e821bc68a5a52d8e8e",
+    "url": "/sketch-builder/static/js/chunk-28f30a78.03cef9dd.js"
   },
   {
-    "revision": "cef632580b542899c14d",
-    "url": "/sketch-builder/static/js/chunk-2b5b6a68.74d20375.js"
+    "revision": "4d9f3cd6957b2f53de6c",
+    "url": "/sketch-builder/static/js/chunk-2b5b6a68.5cd5341a.js"
   },
   {
-    "revision": "ce3ffbb381b74f608339",
-    "url": "/sketch-builder/static/js/chunk-2d0af129.1a4c630b.js"
+    "revision": "30b4b2cb15f3cb00755a",
+    "url": "/sketch-builder/static/js/chunk-2d0af129.3931a91a.js"
   },
   {
-    "revision": "2fadba18ca01e19428ac",
-    "url": "/sketch-builder/static/js/chunk-2d0b8b1d.6407d49f.js"
+    "revision": "cde0cf695080de87c887",
+    "url": "/sketch-builder/static/js/chunk-2d0b8b1d.538018d0.js"
   },
   {
-    "revision": "7fb47d2bbfb64d93e3be",
-    "url": "/sketch-builder/static/js/chunk-2d0ccb8b.829bedfe.js"
+    "revision": "74d8048b1887488795ef",
+    "url": "/sketch-builder/static/js/chunk-2d0ccb8b.cb109dbf.js"
   },
   {
-    "revision": "347d83289b3e68b4caf4",
-    "url": "/sketch-builder/static/js/chunk-2d0e97df.be7e802b.js"
+    "revision": "ae9582eefa0d4778790b",
+    "url": "/sketch-builder/static/js/chunk-2d0e97df.64df9557.js"
   },
   {
-    "revision": "ab8cb7ff00faf3ccbb65",
-    "url": "/sketch-builder/static/js/chunk-2d208107.3ec2acfc.js"
+    "revision": "c5e51e3f6f1ae54626bb",
+    "url": "/sketch-builder/static/js/chunk-2d208107.f87930ef.js"
   },
   {
     "revision": "edd23d8d4883413e2d20",
     "url": "/sketch-builder/static/js/chunk-46503ad2.24f4c7fc.js"
   },
   {
-    "revision": "eb880147ba23c63555ad",
-    "url": "/sketch-builder/static/js/chunk-63f0315a.337944f7.js"
+    "revision": "3ca7f2b5395f8cd5326e",
+    "url": "/sketch-builder/static/js/chunk-63f0315a.19d10e76.js"
   },
   {
-    "revision": "67a3f070e634e9b58d3d",
-    "url": "/sketch-builder/static/js/chunk-646fa990.2c0f7565.js"
+    "revision": "2b9b3cb4bc5b6577f028",
+    "url": "/sketch-builder/static/js/chunk-646fa990.5aa53466.js"
   },
   {
     "revision": "a17d5c54bba81a3076d7",
     "url": "/sketch-builder/static/js/chunk-7e1bb4aa.2a5f0713.js"
   },
   {
-    "revision": "a46a04c788da0573c139",
-    "url": "/sketch-builder/static/js/chunk-903be7f0.0099d7dd.js"
+    "revision": "95b3c8c5f5d91e521623",
+    "url": "/sketch-builder/static/js/chunk-903be7f0.936ecb7b.js"
   },
   {
-    "revision": "edf45a83f8da8722ed7f",
-    "url": "/sketch-builder/static/js/chunk-a2905580.208b7bce.js"
+    "revision": "895032d58d25145c0b93",
+    "url": "/sketch-builder/static/js/chunk-a2905580.3d43d6cc.js"
   },
   {
     "revision": "8854aafe694e5eefc4f0",
     "url": "/sketch-builder/static/js/chunk-elementUI.d3cde55d.js"
   },
   {
-    "revision": "7dfdd304a5f1b791c731",
-    "url": "/sketch-builder/static/js/chunk-libs.05e2d1c8.js"
+    "revision": "40fd9a35aaa56bb77a86",
+    "url": "/sketch-builder/static/js/chunk-libs.5b01e1f7.js"
   },
   {
-    "revision": "b6e95db2ceb52c7d8052",
-    "url": "/sketch-builder/static/js/runtime.b704a289.js"
+    "revision": "f2a74e2fd0a5786feee9",
+    "url": "/sketch-builder/static/js/runtime.c5e6acb7.js"
   }
 ]);
