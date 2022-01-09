@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sketch-builder/precache-manifest.2f824dcc5abb7ae6d5f8e81104cf5ccf.js"
+  "/sketch-builder/precache-manifest.58fe8b0b3253ac5ca1cb85e4c5f81e3f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "sketch-builder-code"});
