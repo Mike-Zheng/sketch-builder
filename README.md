@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://mike-zheng.github.io/sketch-builder" target="_blank" rel="noopener noreferrer">
-<p align="center"><img width="120" src="img/icons/android-chrome-192x192.png" alt="sketch-builder"></p>
+<p align="center"><img width="120" src="docs/img/icons/android-chrome-192x192.png" alt="sketch-builder"></p>
 </a>
 </p>
 
@@ -42,5 +42,5 @@ https://mike-zheng.github.io/sketch-builder
 ## App Snapshot
 
 
-![app screen](img/app.png)
+![app screen](docs/img/app.png)
 
